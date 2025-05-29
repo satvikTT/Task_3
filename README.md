@@ -65,8 +65,10 @@ https://localhost:9392
 ```
 
 ### Log in using the credentials you configured:
-user:- admin
-password:- *****(password you set-up)
+
+| Username | Password             |
+|----------|----------------------|
+| admin    | ***** (your password)|
 
 ### If you encounter a "Potential Security Risk Ahead" warning
 
