@@ -1,4 +1,4 @@
-# Basic Vulnerability Scan on Your PC (Task-3)
+# Basic Vulnerability Scan on Your PC
 
 This repository contains instructions for performing a **basic vulnerability assessment** on your personal computer using **OpenVAS Community Edition** . The goal is to identify potential security risks and learn fundamental cybersecurity assessment techniques.
 
